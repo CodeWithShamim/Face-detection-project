@@ -1,6 +1,6 @@
 import cv2
 '''
-video = cv2.VideoCapture(0)
+video = cv2.VideoCapture("Enter your video location!!")
 
 while True:
     shamim, img = video.read()
